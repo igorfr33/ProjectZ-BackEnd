@@ -1,0 +1,80 @@
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\appsettings.json
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\ProjectZ.staticwebassets.runtime.json
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\ProjectZ.exe
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\ProjectZ.deps.json
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\ProjectZ.runtimeconfig.json
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\ProjectZ.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\ref\ProjectZ.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\ProjectZ.pdb
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.csproj.AssemblyReference.cache
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.AssemblyInfoInputs.cache
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.AssemblyInfo.cs
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.csproj.CoreCompileInputs.cache
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.RazorAssemblyInfo.cache
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.RazorAssemblyInfo.cs
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\scopedcss\bundle\ProjectZ.styles.css
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\scopedcss\projectbundle\ProjectZ.bundle.scp.css
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.csproj.CopyComplete
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ref\ProjectZ.dll
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.pdb
+C:\Users\Igor Rabelo\source\repos\ProjectZ\ProjectZ\obj\Debug\net6.0\ProjectZ.genruntimeconfig.cache
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\appsettings.Development.json
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\appsettings.json
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\ProjectZ.staticwebassets.runtime.json
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\ProjectZ.exe
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\ProjectZ.deps.json
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\ProjectZ.runtimeconfig.json
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\ProjectZ.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\ref\ProjectZ.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\ProjectZ.pdb
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\MySqlConnector.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.csproj.AssemblyReference.cache
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.AssemblyInfoInputs.cache
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.AssemblyInfo.cs
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.csproj.CoreCompileInputs.cache
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.RazorAssemblyInfo.cache
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.RazorAssemblyInfo.cs
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\staticwebassets.build.json
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\staticwebassets.development.json
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\scopedcss\bundle\ProjectZ.styles.css
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\scopedcss\projectbundle\ProjectZ.bundle.scp.css
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.csproj.CopyComplete
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ref\ProjectZ.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.pdb
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\obj\Debug\net6.0\ProjectZ.genruntimeconfig.cache
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\System.Web.Cors.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\System.Web.Http.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ProjectZ\ProjectZ-BackEnd\ProjectZ\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
